@@ -429,3 +429,8 @@
 - [/r/microsoft](https://www.reddit.com/r/Microsoft)
 - [/r/sysadmin](https://www.reddit.com/r/sysadmin)
 - [/r/microsoftsoftwareswap](https://www.reddit.com/r/microsoftsoftwareswap)
+
+**[⬆ back to top](#applications)**
+
+[oss icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
+[freeware icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
