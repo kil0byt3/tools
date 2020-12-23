@@ -1,0 +1,1 @@
+Makes Ctrl+Q a universal shortcut to close the focused app. Works like CMD+Q on a Mac. 
